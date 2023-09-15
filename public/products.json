@@ -1,0 +1,50 @@
+[
+    {
+      "product_id": "001",
+      "product_name": "Wireless Router",
+      "product_image": "/public/images/istockphoto-521663065-612x612.png",
+      "description": "Dual-band wireless router with high-speed connectivity.",
+      "price": 79.99,
+      "stock_quantity": 50
+    },
+    {
+      "product_id": "002",
+      "product_name": "Ethernet Switch",
+      "product_image": "/public/images/stock-vector-networking-ethernet-switch-isometric-vector-illustration-1186350241.png",
+      "description": "16-port Gigabit Ethernet switch for faster wired connections.",
+      "price": 129.99,
+      "stock_quantity": 25
+    },
+    {
+      "product_id": "003",
+      "product_name": "Network Cable Tester",
+      "product_image": "/public/images/124709687-network-cable-tester-on-white-background.png",
+      "description": "Handheld network cable tester for diagnosing cable issues.",
+      "price": 29.99,
+      "stock_quantity": 10
+    },
+    {
+      "product_id": "004",
+      "product_name": "Access Point",
+      "product_image": "/public/images/istockphoto-625750750-612x612.png",
+      "description": "Wireless access point for expanding Wi-Fi coverage.",
+      "price": 59.99,
+      "stock_quantity": 30
+    },
+    {
+      "product_id": "005",
+      "product_name": "Powerline Adapter Kit",
+      "product_image": "/public/images/powerlineAdepter.png",
+      "description": "Powerline adapters for extending network connectivity over electrical wiring.",
+      "price": 49.99,
+      "stock_quantity": 20
+    },
+    {
+      "product_id": "006",
+      "product_name": "Network Security Firewall",
+      "product_image": "/public/images/istockphoto-1331943958-612x612.png",
+      "description": "Firewall appliance for protecting your network from threats.",
+      "price": 199.99,
+      "stock_quantity": 15
+    }
+  ]

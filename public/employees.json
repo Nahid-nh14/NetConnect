@@ -1,0 +1,23 @@
+[
+    {
+      "employee_id": "E001",
+      "employee_name": "John Smith",
+      "position": "Store Manager",
+      "email": "john.smith@example.com",
+      "phone_number": "+1 (123) 456-7890"
+    },
+    {
+      "employee_id": "E002",
+      "employee_name": "Alice Johnson",
+      "position": "Sales Associate",
+      "email": "alice.johnson@example.com",
+      "phone_number": "+1 (234) 567-8901"
+    },
+    {
+      "employee_id": "E003",
+      "employee_name": "Robert Lee",
+      "position": "Technician",
+      "email": "robert.lee@example.com",
+      "phone_number": "+1 (345) 678-9012"
+    }
+  ]
