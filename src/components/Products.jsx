@@ -4,18 +4,16 @@ import Card from "./Card";
 
 const Products = () => {
     const [products , setProducts] = useState([]);
-    const [loading, setLoading] = useState(true);
 
     useEffect(() => {
         // Function to fetch JSON data
         const fetchData = async () => {
          
             
-            const response = await fetch('/public/products.json');
+            const response = await fetch('/products.json');
 
             const jsonData = await response.json();
             setProducts(jsonData);
-            setLoading(false);
          
         };
     
@@ -23,9 +21,6 @@ const Products = () => {
       }, []);
       console.log(products);
     
-      if (loading) {
-        return <div>Loading...</div>;
-      }
     return (
        
         <div>
