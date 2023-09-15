@@ -6,7 +6,7 @@ const Navbar = () => {
         <div className=" font-black px-20 flex justify-between items-center bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 p-4">
             <div className="flex justify-between items-center ">
             <div className="h-16 w-16">
-                    <img className="rounded-full" src="/public/network-logo-template-png_31401.jpg" alt="" />
+                    <img className="rounded-full" src="/network-logo-template-png_31401.jpg" alt="" />
                 </div>
                 <div className=" pl-10">
                     <h2>NETCONNECT</h2>
